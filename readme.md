@@ -1,14 +1,31 @@
 # DEV PREP PART 3: JAVASCRIPT VARIABLES, CONDITIONALS, FUNCTIONS, AND MORE!
 
-## Schedule
+## Topics
 
-10:00 - 11:30    
-<em>11:30 - 11:45 break</em>  
-11:45 - 1:00   
-<strong>1:00 - 2:00 lunch </strong>  
-2:00 - 3:30   
-<em>3:30 - 3:45 break</em>  
-3:45 - 5:00  
+- JS Data Types
+- JS Conditionals
+- JS Functions
+
+## Takeaways
+
+- List the five primitive JavaScript data types
+- Create an array and access any item in that array
+- Add and remove items from an array
+- uiUnderstand the difference between == and ===
+- Identify boolean operators
+- Understand what is meant by "truthy" and "falsy"
+- Confidently write if/else statements
+- Use the ternary operator
+- Define functions and explain their use cases
+- Define & invoke functions with & without parameters
+- Describe scope
+
+## Prereqs & Preparation
+
+- Free [Github account](https://github.com/join)
+- Mac laptop
+- Complete projects 1 and 2 on [Dash](https://dash.generalassemb.ly/)
+- Part 1 of [codecademy’s JS course](https://www.codecademy.com/learn/javascript)
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
