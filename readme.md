@@ -11,7 +11,7 @@
 - List the five primitive JavaScript data types
 - Create an array and access any item in that array
 - Add and remove items from an array
-- uiUnderstand the difference between == and ===
+- Understand the difference between == and ===
 - Identify boolean operators
 - Understand what is meant by "truthy" and "falsy"
 - Confidently write if/else statements
