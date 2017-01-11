@@ -376,7 +376,7 @@ Let's rewrite it in only 2 lines! First we'll define an array of options:
 
 ```js
 var options = ['rock', 'paper', 'scissors']
-var computerChoice = options[Math.floor(Math.random() + options.length)]
+var computerChoice = options[Math.floor(Math.random() * options.length)]
 ```
 
 Let's walk through that piece by piece.
